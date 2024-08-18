@@ -1,5 +1,5 @@
 # PRODIGY_DS_01
-## EXPLANATORY DATA ANALYSIS ON POPULATION DATA
+## EXPLORATORY DATA ANALYSIS ON POPULATION DATA
 
 ### Population Demographics Visualization:
 This repository contains scripts and tools for visualizing the distribution of demographic variables such as age, gender, income, etc., using bar charts and histograms. Visualizing demographic data is crucial for understanding population characteristics and making data-driven decisions in various fields including marketing, public policy, and social sciences.
